@@ -1,0 +1,5 @@
+---
+applications:
+ - name: unicesumarpos-eduardobona
+   random-route: true
+   memory: 128M
